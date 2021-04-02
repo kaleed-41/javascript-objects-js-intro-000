@@ -1,1 +1,1 @@
-var playlist = {JCole: "Fire Squad"};
+var playlist = {JCole : "Fire Squad"};
