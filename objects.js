@@ -1,3 +1,5 @@
 var playlist = {JCole : "Fire Squad"};
 
-var updatePlaylist = {Adele : "Hello"};
+function updatePlaylist(playlist, artistName, songTitle){
+  return playlist["Adele"] = "Hello";
+}
